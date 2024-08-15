@@ -7,9 +7,12 @@ const Color kBackground = Color(0xffFEF4F2);
 
 const Color kGrey = Color(0xff646379);
 const Color kLightGrey = Color(0xff838092);
+const Color kLighterGrey = Color(0xff9A96A9);
 
 const Color kOrange = Color(0xffECA27E);
 const Color kLightOrange = Color(0xffFEECE5);
+const Color kLighterOrange = Color(0xffFFF5ED);
+const Color kDarkOrange = Color(0xffE88656);
 
 const Color kBlack = Color(0xff3E3D50);
 
